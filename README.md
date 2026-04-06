@@ -4,3 +4,5 @@ This repository contains the Python code for controlling a NanoVNA-H, turning it
 Important! For the interface to function correctly, replace the text "***************your directory path here******************" in the lines 222 and 240  with the address of the directory where you want to save the files on your computer.
 
 neural13. (2026). neural13/Nanovna---QCM-D: NanoVNA-QCM-D_2 (NanoVNA-QCM-D_2). Zenodo. https://doi.org/10.5281/zenodo.19439995
+
+The file Demonstration_QCMD_PHB_deposition.rar contains a video with a demonstration of the interface use.
